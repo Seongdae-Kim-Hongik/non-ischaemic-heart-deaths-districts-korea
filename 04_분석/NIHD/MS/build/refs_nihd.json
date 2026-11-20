@@ -1,0 +1,574 @@
+{
+ "aune2018diabetes": {
+  "type": "journal",
+  "authors": [
+   "Aune D",
+   "Schlesinger S",
+   "Neuenschwander M",
+   "Feng T",
+   "Janszky I",
+   "Norat T",
+   "Riboli E"
+  ],
+  "title": "Diabetes mellitus, blood glucose and the risk of heart failure: a systematic review and meta-analysis of prospective studies",
+  "journal": "Nutr Metab Cardiovasc Dis",
+  "year": 2018,
+  "vol": "28",
+  "issue": "11",
+  "pages": "1081-1091",
+  "doi": "10.1016/j.numecd.2018.07.005",
+  "pmid": "30318112",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "aune2019tobacco": {
+  "type": "journal",
+  "authors": [
+   "Aune D",
+   "Schlesinger S",
+   "Norat T",
+   "Riboli E"
+  ],
+  "title": "Tobacco smoking and the risk of heart failure: a systematic review and meta-analysis of prospective studies",
+  "journal": "Eur J Prev Cardiol",
+  "year": 2019,
+  "vol": "26",
+  "issue": "3",
+  "pages": "279-288",
+  "doi": "10.1177/2047487318806658",
+  "pmid": "30335502",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "ding2022cigarette": {
+  "type": "journal",
+  "authors": [
+   "Ding N",
+   "Shah AM",
+   "Blaha MJ",
+   "Chang PP",
+   "Rosamond WD",
+   "Matsushita K"
+  ],
+  "title": "Cigarette Smoking, Cessation, and Risk of Heart Failure With Preserved and Reduced Ejection Fraction",
+  "journal": "J Am Coll Cardiol",
+  "year": 2022,
+  "vol": "79",
+  "issue": "23",
+  "pages": "2298-2305",
+  "doi": "10.1016/j.jacc.2022.03.377",
+  "pmid": "35680180",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "dunlay2019type": {
+  "type": "journal",
+  "authors": [
+   "Dunlay SM",
+   "Givertz MM",
+   "Aguilar D",
+   "Allen LA",
+   "Chan M",
+   "Desai AS",
+   "Deswal A",
+   "Dickson VV",
+   "Kosiborod MN",
+   "Lekavich CL",
+   "McCoy RG",
+   "Mentz RJ",
+   "Piña IL"
+  ],
+  "title": "Type 2 Diabetes Mellitus and Heart Failure: a Scientific Statement From the American Heart Association and the Heart Failure Society of America: this statement does not represent an update of the 2017 ACC/AHA/HFSA heart failure guideline update",
+  "journal": "Circulation",
+  "year": 2019,
+  "vol": "140",
+  "issue": "7",
+  "pages": "e294-e324",
+  "doi": "10.1161/CIR.0000000000000691",
+  "pmid": "31167558",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "glynn2021geographic": {
+  "type": "journal",
+  "authors": [
+   "Glynn PA",
+   "Molsberry R",
+   "Harrington K",
+   "Shah NS",
+   "Petito LC",
+   "Yancy CW",
+   "Carnethon MR",
+   "Lloyd-Jones DM",
+   "Khan SS"
+  ],
+  "title": "Geographic Variation in Trends and Disparities in Heart Failure Mortality in the United States, 1999 to 2017",
+  "journal": "J Am Heart Assoc",
+  "year": 2021,
+  "vol": "10",
+  "issue": "9",
+  "pages": "e020541",
+  "doi": "10.1161/JAHA.120.020541",
+  "pmid": "33890480",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "hayashi2024senility": {
+  "type": "journal",
+  "authors": [
+   "Hayashi R",
+   "Imanaga T",
+   "Marui E",
+   "Kinoshita H",
+   "Ishii F",
+   "Shinohara E",
+   "Beppu M"
+  ],
+  "title": "Senility deaths in aged societies: the case of Japan",
+  "journal": "Glob Health Med",
+  "year": 2024,
+  "vol": "6",
+  "issue": "1",
+  "pages": "40-48",
+  "doi": "10.35772/ghm.2023.01127",
+  "pmid": "38450112",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "kang2015korea": {
+  "type": "journal",
+  "authors": [
+   "Kang YW",
+   "Ko YS",
+   "Kim YJ",
+   "Sung KM",
+   "Kim HJ",
+   "Choi HY",
+   "Sung C",
+   "Jeong E"
+  ],
+  "title": "Korea Community Health Survey data profiles",
+  "journal": "Osong Public Health Res Perspect",
+  "year": 2015,
+  "vol": "6",
+  "issue": "3",
+  "pages": "211-217",
+  "doi": "10.1016/j.phrp.2015.05.003",
+  "pmid": "26430619",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "kang2022current": {
+  "type": "journal",
+  "authors": [
+   "Kang HT"
+  ],
+  "title": "Current Status of the National Health Screening Programs in South Korea",
+  "journal": "Korean J Fam Med",
+  "year": 2022,
+  "vol": "43",
+  "issue": "3",
+  "pages": "168-173",
+  "doi": "10.4082/kjfm.22.0052",
+  "pmid": "35610963",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "khang2019life": {
+  "type": "journal",
+  "authors": [
+   "Khang YH",
+   "Bahk J"
+  ],
+  "title": "Why is Life Expectancy in Busan Shorter than in Seoul? Age and Cause-Specific Contributions to the Difference in Life Expectancy between Two Cities",
+  "journal": "Yonsei Med J",
+  "year": 2019,
+  "vol": "60",
+  "issue": "7",
+  "pages": "687-693",
+  "doi": "10.3349/ymj.2019.60.7.687",
+  "pmid": "31250583",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "kim2022trends": {
+  "type": "journal",
+  "authors": [
+   "Kim E",
+   "Baek J",
+   "Kim M",
+   "Lee H",
+   "Bae JW",
+   "Kim HC"
+  ],
+  "title": "Trends in regional disparity in cardiovascular mortality in Korea, 1983-2019",
+  "journal": "Korean Circ J",
+  "year": 2022,
+  "vol": "52",
+  "issue": "11",
+  "pages": "829-843",
+  "doi": "10.4070/kcj.2022.0156",
+  "pmid": "36347519",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "knorrheld2000bayesian": {
+  "type": "journal",
+  "authors": [
+   "Knorr-Held L"
+  ],
+  "title": "Bayesian modelling of inseparable space-time variation in disease risk",
+  "journal": "Stat Med",
+  "year": 2000,
+  "vol": "19",
+  "issue": "17-18",
+  "pages": "2555-2567",
+  "doi": "10.1002/1097-0258(20000915/30)19:17/18<2555::aid-sim587>3.0.co;2-#",
+  "pmid": "10960871",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "lee2016application": {
+  "type": "journal",
+  "authors": [
+   "Lee YR",
+   "Kim YA",
+   "Park SY",
+   "Oh CM",
+   "Kim YE",
+   "Oh IH"
+  ],
+  "title": "Application of a Modified Garbage Code Algorithm to Estimate Cause-Specific Mortality and Years of Life Lost in Korea",
+  "journal": "J Korean Med Sci",
+  "year": 2016,
+  "vol": "31 Suppl 2",
+  "issue": "Suppl 2",
+  "pages": "S121-S128",
+  "doi": "10.3346/jkms.2016.31.S2.S121",
+  "pmid": "27775249",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "lee2026heart": {
+  "type": "journal",
+  "authors": [
+   "Lee CJ",
+   "Lee H",
+   "Ko KY",
+   "Kong MG",
+   "Kim MS",
+   "Bae S",
+   "Ahn Y",
+   "Chun KH",
+   "Choi KU",
+   "Choi JY",
+   "Lee J",
+   "Park GU",
+   "Yoo BS"
+  ],
+  "title": "Heart Failure Statistics 2025 Update: a Report From the Korean Society of Heart Failure",
+  "journal": "Int J Heart Fail",
+  "year": 2026,
+  "vol": "8",
+  "issue": "1",
+  "pages": "58-73",
+  "doi": "10.36628/ijhf.2026.0001",
+  "pmid": "41696052",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "lesnik2026ill": {
+  "type": "journal",
+  "authors": [
+   "Lesnik T",
+   "Eržen I",
+   "Zaletel Kragelj L",
+   "Charalampous P",
+   "von der Lippe E",
+   "Wengler A",
+   "Devleesschauwer B"
+  ],
+  "title": "Ill-Defined Deaths in Slovenia: implications for Mortality Data Quality and Burden of Disease Studies",
+  "journal": "Zdr Varst",
+  "year": 2026,
+  "vol": "65",
+  "issue": "3",
+  "pages": "165-174",
+  "doi": "10.2478/sjph-2026-0020",
+  "pmid": "42682935",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "lipsitch2010negative": {
+  "type": "journal",
+  "authors": [
+   "Lipsitch M",
+   "Tchetgen Tchetgen E",
+   "Cohen T"
+  ],
+  "title": "Negative controls: a tool for detecting confounding and bias in observational studies",
+  "journal": "Epidemiology",
+  "year": 2010,
+  "vol": "21",
+  "issue": "3",
+  "pages": "383-388",
+  "doi": "10.1097/EDE.0b013e3181d61eeb",
+  "pmid": "20335814",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "morgenstern1995ecologic": {
+  "type": "journal",
+  "authors": [
+   "Morgenstern H"
+  ],
+  "title": "Ecologic studies in epidemiology: concepts, principles, and methods",
+  "journal": "Annu Rev Public Health",
+  "year": 1995,
+  "vol": "16",
+  "issue": "",
+  "pages": "61-81",
+  "doi": "10.1146/annurev.pu.16.050195.000425",
+  "pmid": "7639884",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "naghavi2010algorithms": {
+  "type": "journal",
+  "authors": [
+   "Naghavi M",
+   "Makela S",
+   "Foreman K",
+   "O'Brien J",
+   "Pourmalek F",
+   "Lozano R"
+  ],
+  "title": "Algorithms for enhancing public health utility of national causes-of-death data",
+  "journal": "Popul Health Metr",
+  "year": 2010,
+  "vol": "8",
+  "issue": "",
+  "pages": "9",
+  "doi": "10.1186/1478-7954-8-9",
+  "pmid": "20459720",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "pandey2015dose": {
+  "type": "journal",
+  "authors": [
+   "Pandey A",
+   "Garg S",
+   "Khunger M",
+   "Darden D",
+   "Ayers C",
+   "Kumbhani DJ",
+   "Mayo HG",
+   "de Lemos JA",
+   "Berry JD"
+  ],
+  "title": "Dose-Response Relationship Between Physical Activity and Risk of Heart Failure: a Meta-Analysis",
+  "journal": "Circulation",
+  "year": 2015,
+  "vol": "132",
+  "issue": "19",
+  "pages": "1786-1794",
+  "doi": "10.1161/CIRCULATIONAHA.115.015853",
+  "pmid": "26438781",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "pierce2021trends": {
+  "type": "journal",
+  "authors": [
+   "Pierce JB",
+   "Shah NS",
+   "Petito LC",
+   "Pool L",
+   "Lloyd-Jones DM",
+   "Feinglass J",
+   "Khan SS"
+  ],
+  "title": "Trends in heart failure-related cardiovascular mortality in rural versus urban United States counties, 2011-2018: a cross-sectional study",
+  "journal": "PLoS One",
+  "year": 2021,
+  "vol": "16",
+  "issue": "3",
+  "pages": "e0246813",
+  "doi": "10.1371/journal.pone.0246813",
+  "pmid": "33657143",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "riebler2016intuitive": {
+  "type": "journal",
+  "authors": [
+   "Riebler A",
+   "Sørbye SH",
+   "Simpson D",
+   "Rue H"
+  ],
+  "title": "An intuitive Bayesian spatial model for disease mapping that accounts for scaling",
+  "journal": "Stat Methods Med Res",
+  "year": 2016,
+  "vol": "25",
+  "issue": "4",
+  "pages": "1145-1165",
+  "doi": "10.1177/0962280216660421",
+  "pmid": "27566770",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "savarese2023global": {
+  "type": "journal",
+  "authors": [
+   "Savarese G",
+   "Becher PM",
+   "Lund LH",
+   "Seferovic P",
+   "Rosano GMC",
+   "Coats AJS"
+  ],
+  "title": "Global burden of heart failure: a comprehensive and updated review of epidemiology",
+  "journal": "Cardiovasc Res",
+  "year": 2023,
+  "vol": "118",
+  "issue": "17",
+  "pages": "3272-3287",
+  "doi": "10.1093/cvr/cvac013",
+  "pmid": "35150240",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "shah2020heterogeneous": {
+  "type": "journal",
+  "authors": [
+   "Shah NS",
+   "Molsberry R",
+   "Rana JS",
+   "Sidney S",
+   "Capewell S",
+   "O'Flaherty M",
+   "Carnethon M",
+   "Lloyd-Jones DM",
+   "Khan SS"
+  ],
+  "title": "Heterogeneous trends in burden of heart disease mortality by subtypes in the United States, 1999-2018: observational analysis of vital statistics",
+  "journal": "BMJ",
+  "year": 2020,
+  "vol": "370",
+  "issue": "",
+  "pages": "m2688",
+  "doi": "10.1136/bmj.m2688",
+  "pmid": "32816805",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "snyder2014redistribution": {
+  "type": "journal",
+  "authors": [
+   "Snyder ML",
+   "Love SA",
+   "Sorlie PD",
+   "Rosamond WD",
+   "Antini C",
+   "Metcalf PA",
+   "Hardy S",
+   "Suchindran CM",
+   "Shahar E",
+   "Heiss G"
+  ],
+  "title": "Redistribution of heart failure as the cause of death: the Atherosclerosis Risk in Communities Study",
+  "journal": "Popul Health Metr",
+  "year": 2014,
+  "vol": "12",
+  "issue": "1",
+  "pages": "10",
+  "doi": "10.1186/1478-7954-12-10",
+  "pmid": "24716810",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "steegen2016increasing": {
+  "type": "journal",
+  "authors": [
+   "Steegen S",
+   "Tuerlinckx F",
+   "Gelman A",
+   "Vanpaemel W"
+  ],
+  "title": "Increasing transparency through a multiverse analysis",
+  "journal": "Perspect Psychol Sci",
+  "year": 2016,
+  "vol": "11",
+  "issue": "5",
+  "pages": "702-712",
+  "doi": "10.1177/1745691616658637",
+  "pmid": "27694465",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "sulo2024heart": {
+  "type": "journal",
+  "authors": [
+   "Sulo G",
+   "Lycke Ellingsen C",
+   "Sulo E",
+   "Naghavi M",
+   "Vollset SE"
+  ],
+  "title": "Heart failure describing the underlying cause of death: a misconception, lack of information on the true underlying causes, or both?",
+  "journal": "Scand J Public Health",
+  "year": 2024,
+  "vol": "52",
+  "issue": "2",
+  "pages": "152-158",
+  "doi": "10.1177/14034948221137123",
+  "pmid": "36468773",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "vanderweele2017sensitivity": {
+  "type": "journal",
+  "authors": [
+   "VanderWeele TJ",
+   "Ding P"
+  ],
+  "title": "Sensitivity analysis in observational research: introducing the E-value",
+  "journal": "Ann Intern Med",
+  "year": 2017,
+  "vol": "167",
+  "issue": "4",
+  "pages": "268-274",
+  "doi": "10.7326/M16-2607",
+  "pmid": "28693043",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "vonelm2007strengthening": {
+  "type": "journal",
+  "authors": [
+   "von Elm E",
+   "Altman DG",
+   "Egger M",
+   "Pocock SJ",
+   "Gøtzsche PC",
+   "Vandenbroucke JP"
+  ],
+  "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+  "journal": "PLoS Med",
+  "year": 2007,
+  "vol": "4",
+  "issue": "10",
+  "pages": "e296",
+  "doi": "10.1371/journal.pmed.0040296",
+  "pmid": "17941714",
+  "verified": "PubMed esummary 2026-11-12"
+ },
+ "rue2009approximate": {
+  "type": "journal",
+  "authors": [
+   "Rue H",
+   "Martino S",
+   "Chopin N"
+  ],
+  "title": "Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations",
+  "journal": "J R Stat Soc Series B Stat Methodol",
+  "year": 2009,
+  "vol": "71",
+  "issue": "2",
+  "pages": "319-392",
+  "doi": "10.1111/j.1467-9868.2008.00700.x",
+  "verified": "Crossref 2026-11-12"
+ },
+ "web:kostat2026cause": {
+  "type": "web",
+  "authors": "Statistics Korea",
+  "title": "Causes of death statistics: deaths by cause (104 items), sex and administrative district (DT_1B34E13) and by cause, sex and 5-year age group (DT_1B34E01), 2011-2024. Korean Statistical Information Service",
+  "url": "https://kosis.kr",
+  "year": 2026,
+  "accessed": "12 November 2026"
+ },
+ "web:mois2026population": {
+  "type": "web",
+  "authors": "Ministry of the Interior and Safety",
+  "title": "Resident registration population by district, sex and 5-year age group, 2011-2024",
+  "url": "https://jumin.mois.go.kr",
+  "year": 2026,
+  "accessed": "20 October 2026"
+ }
+}

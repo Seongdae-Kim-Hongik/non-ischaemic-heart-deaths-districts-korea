@@ -1,0 +1,167 @@
+{
+ "tag": "NIHD",
+ "outcome_column": "ext__nihd_deaths",
+ "outcome_label_en": "Non-ischaemic heart disease deaths (I26-I51: heart failure, arrhythmias, cardiomyopathy, valvular and pulmonary heart disease; Statistics Korea cause-of-death statistics, annual, place of residence)",
+ "disease_en": "Non-ischaemic heart disease mortality",
+ "disease_ko": "비허혈 심장질환 사망",
+ "forced": [
+  "eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구",
+  "eloc__DT_1YL20981__인구천명당의료기관종사의사수＜br＞(A÷B×1000)",
+  "eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100)",
+  "eloc__DT_1YL20891__재정자주도(세입과목개편전)",
+  "ext__pop80_share"
+ ],
+ "negative_controls": [
+  "eloc__DT_1YL13901__뺑소니교통사고율＜br＞(A÷B×100)",
+  "eloc__DT_1YL20331__지수__계",
+  "eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000)"
+ ],
+ "offset_E_column": "E_std2",
+ "offset_E_file": "NIHD_Estd2.csv",
+ "offset_E_label": "age-standardised E, 18 five-year bands to 85+ (E_std2, national cause-specific death rates)",
+ "graph": null,
+ "population_override": [
+  {
+   "year": 2023,
+   "fbd_region": "경상남도창원시",
+   "population": 1009038,
+   "source": "KOSIS DT_1YL20651E 2023 통합창원시 계; FBD_DATA_ZIP/2023.csv 창원 블록이 2022값 복사(유방암 11/4 population_final_audit)"
+  }
+ ],
+ "sensitivity_only_extra": [
+  "ext__outside_care_share"
+ ],
+ "sets": {
+  "S1_narrative_full": [
+   "kchs__DT_H_EX_WALK__SR",
+   "kchs__DT_H_EX_PHY__SR",
+   "fac__total",
+   "vil__계",
+   "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율",
+   "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율",
+   "chk__대사_복부비만_비율",
+   "kchs__DT_H_SM__SR",
+   "kchs__DT_117075_H_DR_HIGH_WH__SR",
+   "ext__basic_livelihood_rate",
+   "ext__im_specialists_per100k",
+   "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)",
+   "ext__ill_defined_share"
+  ],
+  "S2_core": [
+   "kchs__DT_H_EX_WALK__SR",
+   "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율",
+   "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율",
+   "ext__basic_livelihood_rate",
+   "ext__im_specialists_per100k",
+   "ext__ill_defined_share"
+  ],
+  "S3_physical_activity": [
+   "kchs__DT_H_EX_WALK__SR",
+   "kchs__DT_H_EX_PHY__SR",
+   "fac__total",
+   "vil__계"
+  ],
+  "S4_cardiometabolic_risk": [
+   "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율",
+   "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율",
+   "chk__대사_복부비만_비율",
+   "kchs__DT_H_SM__SR",
+   "kchs__DT_117075_H_DR_HIGH_WH__SR"
+  ],
+  "S5_access_social_certification": [
+   "ext__basic_livelihood_rate",
+   "ext__im_specialists_per100k",
+   "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)",
+   "ext__ill_defined_share"
+  ]
+ },
+ "transform": {
+  "eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구": "share_of_pop(도시지역인구÷population(마스터))",
+  "eloc__DT_1YL20981__인구천명당의료기관종사의사수＜br＞(A÷B×1000)": "none",
+  "eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100)": "none",
+  "eloc__DT_1YL20891__재정자주도(세입과목개편전)": "none",
+  "ext__pop80_share": "none",
+  "eloc__DT_1YL13901__뺑소니교통사고율＜br＞(A÷B×100)": "none",
+  "eloc__DT_1YL20331__지수__계": "none",
+  "eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000)": "none",
+  "ext__outside_care_share": "none",
+  "kchs__DT_H_EX_WALK__SR": "none",
+  "kchs__DT_H_EX_PHY__SR": "none",
+  "fac__total": "per100k",
+  "vil__계": "per100k",
+  "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율": "none",
+  "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율": "none",
+  "chk__대사_복부비만_비율": "none",
+  "kchs__DT_H_SM__SR": "none",
+  "kchs__DT_117075_H_DR_HIGH_WH__SR": "none",
+  "ext__basic_livelihood_rate": "none",
+  "ext__im_specialists_per100k": "none",
+  "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)": "none",
+  "ext__ill_defined_share": "none"
+ },
+ "expected_direction": {
+  "kchs__DT_H_EX_WALK__SR": "-",
+  "kchs__DT_H_EX_PHY__SR": "-",
+  "fac__total": "-",
+  "vil__계": "-",
+  "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율": "+",
+  "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율": "+",
+  "chk__대사_복부비만_비율": "+",
+  "kchs__DT_H_SM__SR": "+",
+  "kchs__DT_117075_H_DR_HIGH_WH__SR": "+",
+  "ext__basic_livelihood_rate": "+",
+  "ext__im_specialists_per100k": "-",
+  "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)": "+",
+  "ext__ill_defined_share": "+"
+ },
+ "evidence": {
+  "kchs__DT_H_EX_WALK__SR": "pandey2015dose; kraus2019physical",
+  "kchs__DT_H_EX_PHY__SR": "pandey2015dose; aune2021physical",
+  "fac__total": "sallis2016physical",
+  "vil__계": "sallis2016physical",
+  "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율": "levy1996progression; ettehad2016blood",
+  "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율": "kannel1974role; dunlay2019type",
+  "chk__대사_복부비만_비율": "kenchaiah2002obesity; aune2016bmi",
+  "kchs__DT_H_SM__SR": "kamimura2018cigarette; aune2019tobacco",
+  "kchs__DT_117075_H_DR_HIGH_WH__SR": "wood2018risk; voskoboinik2016alcohol",
+  "ext__basic_livelihood_rate": "hawkins2012socioeconomic; conrad2018temporal",
+  "ext__im_specialists_per100k": "mcdonagh2021esc; lee2023heart",
+  "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)": "manemann2018perceived; valtorta2016loneliness",
+  "ext__ill_defined_share": "naghavi2010algorithms; snyder2014heart"
+ },
+ "rules": {
+  "likelihood": "forced-only 모형 WAIC 낮은 쪽(Poisson/NB)",
+  "set_choice": "WAIC 최소, 4 이내면 변수 적은 세트",
+  "credible": "95% CrI 1 제외",
+  "vif_drop": 10,
+  "multiverse_specs": 200,
+  "main_model_note": "Principal model = S1_narrative_full (13 district characteristics + 5 forced controls). VIF>10 retained and reported."
+ },
+ "note": "Covariates selected from the heart failure literature: physical activity and facilities (walking, moderate physical activity, public and village sports facilities per 100,000), cardiometabolic risk (screening-measured suspected hypertension, suspected diabetes and abdominal obesity; current smoking; high-risk drinking), access and social conditions (basic livelihood security recipients, internal medicine specialists per 100,000, older-adult single-person households) and certification (share of deaths with ill-defined causes, R00-R99); five forced controls; negative control exposures hit-and-run collisions, traffic culture index and fires per 10,000; comparison outcomes infectious disease and stomach cancer deaths.",
+ "extra_columns": {
+  "ext__pop80_share": [
+   "NIHD_Estd2.csv",
+   "pop80_share_raw"
+  ],
+  "ext__basic_livelihood_rate": [
+   "EXT_canonical_pool_NIHD_261112.csv",
+   "basic_livelihood_rate"
+  ],
+  "ext__im_specialists_per100k": [
+   "EXT_canonical_pool_NIHD_261112.csv",
+   "im_specialists_per100k"
+  ],
+  "ext__outside_care_share": [
+   "EXT_canonical_pool_261106.csv",
+   "outside_care_share"
+  ],
+  "ext__ill_defined_share": [
+   "EXT_canonical_pool_NIHD_261112.csv",
+   "ill_defined_share"
+  ],
+  "ext__nihd_deaths": [
+   "EXT_canonical_pool_NIHD_261112.csv",
+   "nihd_deaths"
+  ]
+ }
+}
